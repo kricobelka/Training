@@ -1,0 +1,14 @@
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\bin\Debug\netcoreapp3.1\Task2minindex.exe
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\bin\Debug\netcoreapp3.1\Task2minindex.deps.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\bin\Debug\netcoreapp3.1\Task2minindex.runtimeconfig.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\bin\Debug\netcoreapp3.1\Task2minindex.runtimeconfig.dev.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\bin\Debug\netcoreapp3.1\Task2minindex.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\bin\Debug\netcoreapp3.1\Task2minindex.pdb
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.csproj.AssemblyReference.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.AssemblyInfoInputs.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.AssemblyInfo.cs
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.csproj.CoreCompileInputs.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.pdb
+C:\Users\hijik\Visual Studio Community\repos\TMS\Training\Training\Task1\Task2minindex\obj\Debug\netcoreapp3.1\Task2minindex.genruntimeconfig.cache
